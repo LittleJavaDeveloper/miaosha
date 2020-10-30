@@ -231,7 +231,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <version>1.5.2.RELEASE</version>
+                <version>2.3.5.RELEASE</version>
                 <configuration>
                     <mainClass>com.geekq.miaosha.GeekQMainApplication</mainClass><!--springboot启动类目录-->
                 </configuration>
